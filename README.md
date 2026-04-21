@@ -74,3 +74,13 @@ node surrealartgenerator.js "your prompt" --token "$NETA_TOKEN"
 ```
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node surrealartgenerator.js "surreal dreamlike scene, absurd and imaginative composition, impossible physics, melting forms, floating objects, vivid otherworldly colors, hyper-detailed, dali-inspired, magritte-inspired, cinematic lighting, high resolution"
+```
+
+![Example output](https://oss.talesofai.cn/picture/471cc01c-9dda-40f0-b975-bc1a52729253.webp)
+
+> Prompt: *"surreal dreamlike scene, absurd and imaginative composition, impossible physics, melting forms, floating objects, vivid otherworldly colors, hyper-detailed, dali-inspired, magritte-inspired, cinematic lighting, high resolution"*
